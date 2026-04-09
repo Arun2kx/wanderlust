@@ -24,9 +24,9 @@ Wanderlust is a full-stack web application inspired by Airbnb. It allows users t
 ## 🧑‍💻 Getting Started
 
 1. **Clone the repo:**
-   ```bash git clonehttps://github.com/Arun2kx/wanderlust.git
-cd wanderlust
-  
+   ```bash
+   git clone https://github.com/Arun2kx/wanderlust.git
+   cd wanderlust
 
 2.**Install dependecies**:
 npm install
